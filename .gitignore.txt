@@ -1,0 +1,2 @@
+This is Sample to show the Git adding new file to Repository
+
