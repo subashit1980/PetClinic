@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 This is a Sample to show the Git Lab practicals
+=======
+This is a file created for testbranch 
+
+
+
+>>>>>>> f4a0dcac7fd1d9ec097c86e6ea22c987bbbc2ded

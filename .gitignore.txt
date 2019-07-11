@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is Sample to show the Git adding new file to Repository
+=======
+This is a hidden sample linux file
+>>>>>>> f4a0dcac7fd1d9ec097c86e6ea22c987bbbc2ded
 
