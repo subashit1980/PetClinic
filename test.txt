@@ -1,4 +1,6 @@
 <<<<<<< HEAD
+This is a Sample created to show in the Git Branch Lab Practicals
++++++++++++++
 This is a Sample to show the Git Lab practicals
 =======
 This is a file created for testbranch 
